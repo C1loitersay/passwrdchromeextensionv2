@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TK-mac</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 05 Apr 2026 12:51:51 +0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac.zip" length="3453993" type="application/octet-stream" sparkle:edSignature="3dmk/3g0SHstxVag4pkArp2zbEKFLRH+8Ltz8fcwZu7Skrku+qxNgGGLp5uKIsxwmtheYP3YW5Q1hv4GtAGtDg=="/>
+        </item>
+    </channel>
+</rss>
