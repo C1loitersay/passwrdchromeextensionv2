@@ -3,12 +3,39 @@
     <channel>
         <title>TK-mac</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sat, 11 Apr 2026 18:21:10 +0400</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Wed, 29 Apr 2026 18:56:58 +0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="3392738" type="application/octet-stream" sparkle:edSignature="JXElyv3oOteVb5FqPdYjHltORu3Cdzd/QsKJvYEZiZnoPFt04K7vKC6KrHtOYii3H6d0lVVCf8my7EJKyvadCw=="/>
+	    <description>
+                <![CDATA[
+                <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin-bottom: 4px;">What's New in TK-mac</h2>
+                <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #666; margin-top: 0; margin-bottom: 16px;">Helping you keep your Mac fast and healthy.</p>
+                
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6;">
+                    <li style="margin-bottom: 10px;">
+                        <b>📱 Phone Remote Control:</b> Manage your Mac from any phone. Force quit apps, eject disks, or shut down from your browser.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <b>⏱ CPU Power Limits:</b> Stop apps from hogging your power. You can now restrict exactly how much CPU an app is allowed to use.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <b>⌨️ Custom Shortcuts:</b> Assign your own keyboard keys to quickly eject all disks or clear your workspace in one tap.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <b>👆 Smart View Toggles:</b> Tap your Network IP to switch Public/Private views. Plus, when System Processes are enabled, tap the temperature to toggle between °C and °F.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <b>📊 Display Visualizer:</b> Added beautiful live utilization graphs to the Display Dashboard so you can track performance visually.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <b>⚡️ Performance Polish:</b> Under-the-hood fixes to make the app even faster and lighter on your battery.
+                    </li>
+                </ul>
+                ]]>
+            </description>
+            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="3774985" type="application/octet-stream" sparkle:edSignature="VFM4k2HbW6Q/kYZBKIPvltyvrrAdMLgx28FXa0/E0chmf8doR4PiLYOO2FO0J0ivNEV5yhvoCe/xajLhCn6rBA=="/>
         </item>
     </channel>
 </rss>
