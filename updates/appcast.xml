@@ -3,37 +3,30 @@
     <channel>
         <title>TK-mac</title>
         <item>
-            <title>1.4</title>
-            <pubDate>Sun, 24 May 2026 22:00:58 +0400</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <title>1.4.1</title>
+            <pubDate>Tue, 26 May 2026 12:30:58 +0400</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                    <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin-bottom: 4px;">What's New in TK-mac</h2>
-                    <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #666; margin-top: 0; margin-bottom: 16px;">Helping you keep your Mac fast and healthy.</p>
-                    
-                    <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6;">
-                        <li style="margin-bottom: 10px;">
-                            <b>⚙️ New Control Panel:</b> Easily manage your installed applications. Perform regular uninstalls or deep clean uninstallations, including batch-uninstalling multiple apps at once. We have also introduced firewall which allows you to block incoming and outgoing traffic from your Mac.
-                        </li>
-                        <li style="margin-bottom: 10px;">
-                            <b>⏱️ Custom Sampling Time:</b> From now on you can choose between 60 seconds, 2 minutes, 10 minutes, 30 minutes, and 1 hour sampling.
-                        </li>
-                        <li style="margin-bottom: 10px;">
-                            <b>🪟 Menu Bar Only Mode and Hide Menu Bar:</b> You can now hide the Dock icon and run the app entirely from your Menu Bar in the background or you can do the opposite.
-                        </li>
-                        <li style="margin-bottom: 10px;">
-                            <b>🔓 System Processes Unlocked:</b> We introduced system process actions to give you full control over every process when running in system mode.
-                        </li>
-                        <li style="margin-bottom: 10px;">
-                            <b>🛠️ Massive Performance Polish:</b> We squashed tons of bugs and added more optimizations to make the app significantly faster and lighter on your mac.
-                        </li>
-                        <li style="margin-bottom: 10px;">
-                            <b>🎁 Surprise Inside:</b> We’ve put a secret new feature for you to discover. We could tell you where it is, but it's much more fun to find it for yourself!
-                        </li>
-                    </ul>
+                <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin-bottom: 4px;">TK-mac Update: Improved Stability</h2>
+                <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #666; margin-top: 0; margin-bottom: 16px;">We’ve made critical improvements to ensure your Mac stays fast and responsive.</p>
+
+                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6;">
+                    <li style="margin-bottom: 10px;">
+                        <b>🚀 Critical Stability Fix:</b> We have addressed a resource management issue that could cause memory pressure or unresponsiveness during extended use. This update ensures TK-mac runs efficiently and stays light on your system resources, no matter how long the app is kept open.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <b>⚡ Enhanced Performance:</b> By optimizing how TK-mac communicates with background system services, we have significantly reduced the app's overall memory footprint and improved long-term stability.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <b>🛠️ General Refinements:</b> We’ve squashed several minor bugs to ensure a smoother, more reliable experience across all dashboards.
+                    </li>
+                </ul>
+
+                <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #444; margin-top: 16px;">Thank you for your patience and for your continued feedback, which helps us make TK-mac the best it can be.</p>
                 ]]></description>
-            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="4234390" type="application/octet-stream" sparkle:edSignature="z/ivHDwkERed1xHS4nqyodQPktU9zn78DaL3VTEddvfTGnbikKf0GmWNPQoKmowl5nRpykfAb5IlIeKuLD+qAA=="/>
+            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="4235609" type="application/octet-stream" sparkle:edSignature="8oMYZ9hWLucvpVWuFZbVZSRa4vLrwMaiqIhlRaTDbnqN5UHMku0BbRYE/V+vZZTqQz2FJ3XAxgx0lvk8JKI0DQ=="/>
         </item>
     </channel>
 </rss>
