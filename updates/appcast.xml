@@ -3,30 +3,36 @@
     <channel>
         <title>TK-mac</title>
         <item>
-            <title>1.4.1</title>
-            <pubDate>Tue, 26 May 2026 12:30:58 +0400</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <title>1.4.2</title>
+            <pubDate>Sat, 30 May 2026 18:30:58 +0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin-bottom: 4px;">TK-mac Update: Improved Stability</h2>
-                <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #666; margin-top: 0; margin-bottom: 16px;">We’ve made critical improvements to ensure your Mac stays fast and responsive.</p>
+                <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin-bottom: 4px;">What's New in TK-mac</h2>
+                <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #666; margin-top: 0; margin-bottom: 16px;">We’ve squashed bugs and added improvements to keep your Mac running smoothly.</p>
 
                 <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6;">
                     <li style="margin-bottom: 10px;">
-                        <b>🚀 Critical Stability Fix:</b> We have addressed a resource management issue that could cause memory pressure or unresponsiveness during extended use. This update ensures TK-mac runs efficiently and stays light on your system resources, no matter how long the app is kept open.
+                        <b>📊 System Memory Sampling Fixed:</b> Resolved an issue where RAM usage for system processes was not displaying during sampling. You can now accurately track memory usage for all processes.
                     </li>
                     <li style="margin-bottom: 10px;">
-                        <b>⚡ Enhanced Performance:</b> By optimizing how TK-mac communicates with background system services, we have significantly reduced the app's overall memory footprint and improved long-term stability.
+                        <b>🗑️ Safer Uninstallations:</b> When uninstalling applications, they are now safely moved to your Mac's Trash rather than being permanently deleted immediately.
                     </li>
                     <li style="margin-bottom: 10px;">
-                        <b>🛠️ General Refinements:</b> We’ve squashed several minor bugs to ensure a smoother, more reliable experience across all dashboards.
+                        <b>✨ UI Polish & Bug Fixes:</b> Refined dashboard visual elements for a cleaner native experience, and squashed several under-the-hood bugs to improve overall app stability.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <b>🖥️ Desktop Power Status Fixed:</b> Resolved an issue where iMacs and other desktop Macs displayed incorrect battery stats. They will now correctly show as running on a Power Adapter in System Info.
+                    </li>
+                    <li style="margin-bottom: 10px;">
+                        <b>🛡️ Advanced Firewall Safety:</b> Completely rebuilt the firewall engine to be dynamic and crash-proof. It now perfectly remembers your settings and guarantees your internet is never accidentally blocked when you quit the app.
                     </li>
                 </ul>
 
-                <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #444; margin-top: 16px;">Thank you for your patience and for your continued feedback, which helps us make TK-mac the best it can be.</p>
-                ]]></description>
-            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="4235609" type="application/octet-stream" sparkle:edSignature="8oMYZ9hWLucvpVWuFZbVZSRa4vLrwMaiqIhlRaTDbnqN5UHMku0BbRYE/V+vZZTqQz2FJ3XAxgx0lvk8JKI0DQ=="/>
+                <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #444; margin-top: 16px;">Thank you for your continued feedback, which helps us make TK-mac the best it can be.</p>
+            ]]></description>
+            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="4181145" type="application/octet-stream" sparkle:edSignature="4MScveRq/BeunF1jTRm4/X37rcKsaZzfZeQh84sd6NQGF1UZMiUMOo21zCKtGDh914oEhwSmDsxZ7DCcgMMeAg=="/>
         </item>
     </channel>
 </rss>
