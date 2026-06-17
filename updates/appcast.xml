@@ -4,8 +4,8 @@
         <title>TK-mac</title>
         <item>
             <title>1.5</title>
-            <pubDate>Wed, 17 Jun 2026 06:30:58 +0400</pubDate>
-            <sparkle:version>150</sparkle:version>
+            <pubDate>Wed, 17 Jun 2026 07:30:58 +0400</pubDate>
+            <sparkle:version>151</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -33,7 +33,7 @@
 
                             <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #444; margin-top: 16px;">Thank you for your continued feedback, which helps us make TK-mac the best it can be.</p>
                         ]]></description>
-            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="4479790" type="application/octet-stream" sparkle:edSignature="xmf3QGK1EgZi6zp7CIX9jgik+AXaz1HZUZSEIh9ZGyliYp9E7ZdW/kRpksEsjXXqQFIeBpgUvrUW2ZCUZzTdCg=="/>
+            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="4479690" type="application/octet-stream" sparkle:edSignature="wY74LMmQuLvGnKPn6kD0nJpgQQnaTXJTqspQrkRSOWT49rvv+J5axnHLjurVbJG0vjMmqJFzMZml0k/HRq2ECQ=="/>
         </item>
     </channel>
 </rss>
