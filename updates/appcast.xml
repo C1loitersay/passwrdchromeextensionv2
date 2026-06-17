@@ -3,36 +3,37 @@
     <channel>
         <title>TK-mac</title>
         <item>
-            <title>1.4.2</title>
-            <pubDate>Sat, 30 May 2026 18:30:58 +0400</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <title>1.5</title>
+            <pubDate>Wed, 17 Jun 2026 06:30:58 +0400</pubDate>
+            <sparkle:version>150</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin-bottom: 4px;">What's New in TK-mac</h2>
-                <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #666; margin-top: 0; margin-bottom: 16px;">We’ve squashed bugs and added improvements to keep your Mac running smoothly.</p>
+                            <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin-bottom: 4px;">What's New in TK-mac</h2>
+                            <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #666; margin-top: 0; margin-bottom: 16px;">Helping you keep your Mac fast and healthy.</p>
 
-                <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6;">
-                    <li style="margin-bottom: 10px;">
-                        <b>📊 System Memory Sampling Fixed:</b> Resolved an issue where RAM usage for system processes was not displaying during sampling. You can now accurately track memory usage for all processes.
-                    </li>
-                    <li style="margin-bottom: 10px;">
-                        <b>🗑️ Safer Uninstallations:</b> When uninstalling applications, they are now safely moved to your Mac's Trash rather than being permanently deleted immediately.
-                    </li>
-                    <li style="margin-bottom: 10px;">
-                        <b>✨ UI Polish & Bug Fixes:</b> Refined dashboard visual elements for a cleaner native experience, and squashed several under-the-hood bugs to improve overall app stability.
-                    </li>
-                    <li style="margin-bottom: 10px;">
-                        <b>🖥️ Desktop Power Status Fixed:</b> Resolved an issue where iMacs and other desktop Macs displayed incorrect battery stats. They will now correctly show as running on a Power Adapter in System Info.
-                    </li>
-                    <li style="margin-bottom: 10px;">
-                        <b>🛡️ Advanced Firewall Safety:</b> Completely rebuilt the firewall engine to be dynamic and crash-proof. It now perfectly remembers your settings and guarantees your internet is never accidentally blocked when you quit the app.
-                    </li>
-                </ul>
+                            <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #fff5eb; border: 1px solid #ffe3cb; padding: 12px; border-radius: 8px; margin-bottom: 16px;">
+                                <b style="color: #e67e22;">⚠️ Pro Mode Not Loading?</b> If Pro Mode is not loading after this update, please navigate to the <b>Help</b> menu in the top menu bar, select <b>TK-mac Help</b>, and follow the provided instructions.
+                            </div>
 
-                <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #444; margin-top: 16px;">Thank you for your continued feedback, which helps us make TK-mac the best it can be.</p>
-            ]]></description>
-            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="4181145" type="application/octet-stream" sparkle:edSignature="4MScveRq/BeunF1jTRm4/X37rcKsaZzfZeQh84sd6NQGF1UZMiUMOo21zCKtGDh914oEhwSmDsxZ7DCcgMMeAg=="/>
+                            <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6;">
+                                <li style="margin-bottom: 10px;">
+                                    <b>⏱️ Built-in Speed Test:</b> Accurately measure your internet performance directly from the dashboard, powered securely by M-Lab's open-source infrastructure.
+                                </li>
+                                <li style="margin-bottom: 10px;">
+                                    <b>🌐 Network Menu Bar:</b> Keep an eye on your live upload and download speeds, plus your active IP addresses, straight from your Mac's menu bar.
+                                </li>
+                                <li style="margin-bottom: 10px;">
+                                    <b>🔒 Remote Mac Locking:</b> You can now instantly lock your computer remotely using your phone via the remote access dashboard.
+                                </li>
+                                <li style="margin-bottom: 10px;">
+                                    <b>✨ UI Polish & Bug Fixes:</b> Refined dashboard visual elements for a cleaner native experience, and squashed several under-the-hood bugs to improve overall app stability.
+                                </li>
+                            </ul>
+
+                            <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #444; margin-top: 16px;">Thank you for your continued feedback, which helps us make TK-mac the best it can be.</p>
+                        ]]></description>
+            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="4479790" type="application/octet-stream" sparkle:edSignature="xmf3QGK1EgZi6zp7CIX9jgik+AXaz1HZUZSEIh9ZGyliYp9E7ZdW/kRpksEsjXXqQFIeBpgUvrUW2ZCUZzTdCg=="/>
         </item>
     </channel>
 </rss>
