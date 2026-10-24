@@ -3,37 +3,58 @@
     <channel>
         <title>TK-mac</title>
         <item>
-            <title>1.5</title>
-            <pubDate>Wed, 17 Jun 2026 09:30:58 +0400</pubDate>
-            <sparkle:version>152</sparkle:version>
+            <title>1.6</title>
+            <pubDate>Thur, 22 Oct 2026 09:30:58 +0400</pubDate>
+            <sparkle:version>162</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                            <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin-bottom: 4px;">What's New in TK-mac</h2>
-                            <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #666; margin-top: 0; margin-bottom: 16px;">Helping you keep your Mac fast and healthy.</p>
+    <h2 style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin-bottom: 4px;">What's New in SimpleCommander (formerly TK-mac) New Website: www.simplecommander.com </h2>
+    <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #666; margin-top: 0; margin-bottom: 16px;">Helping you keep your Mac fast and healthy. (v1.6 - 4 October 2026)</p>
 
-                            <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #fff5eb; border: 1px solid #ffe3cb; padding: 12px; border-radius: 8px; margin-bottom: 16px;">
-                                <b style="color: #e67e22;">⚠️ Pro Mode Not Loading?</b> If Pro Mode is not loading after this update, please navigate to the <b>Help</b> menu in the top menu bar, select <b>TK-mac Help</b>, and follow the provided instructions.
-                            </div>
+    <div style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; background: #fff5eb; border: 1px solid #ffe3cb; padding: 12px; border-radius: 8px; margin-bottom: 16px;">
+        <b style="color: #e67e22;">⚠️ Pro Mode Not Loading?</b> If Pro Mode is not loading after this update, please navigate to the <b>Help</b> menu in the top menu bar, select <b>SimpleCommander Help</b> (or <b>TK-mac Help</b>), and follow the provided instructions.
+    </div>
 
-                            <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6;">
-                                <li style="margin-bottom: 10px;">
-                                    <b>⏱️ Built-in Speed Test:</b> Accurately measure your internet performance directly from the dashboard, powered securely by M-Lab's open-source infrastructure.
-                                </li>
-                                <li style="margin-bottom: 10px;">
-                                    <b>🌐 Network Menu Bar:</b> Keep an eye on your live upload and download speeds, straight from your Mac's menu bar.
-                                </li>
-                                <li style="margin-bottom: 10px;">
-                                    <b>🔒 Remote Mac Locking:</b> You can now instantly lock your computer remotely using your phone via the remote access dashboard.
-                                </li>
-                                <li style="margin-bottom: 10px;">
-                                    <b>✨ UI Polish & Bug Fixes:</b> Refined dashboard visual elements for a cleaner native experience, and squashed several under-the-hood bugs to improve overall app stability.
-                                </li>
-                            </ul>
+    <ul style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; line-height: 1.6;">
+        <li style="margin-bottom: 10px;">
+            <b>🚀 Rebranded to SimpleCommander:</b> TK-mac has been officially renamed to SimpleCommander, complete with a brand new app icon and a refined identity.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>🍏 macOS Golden Gate Support:</b> Added full compatibility and seamless support for the upcoming macOS Golden Gate.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>🔒 App Lock Protection:</b> Secure individual applications using Touch ID or custom Keychain passwords, complete with customizable re-lock grace periods.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>🛡️ Watchdog Protection:</b> The new Anti Force Quit system instantly restarts the app if it gets forcefully closed, keeping your App Lock protection continuous and resilient.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>📡 Network Devices Scanner:</b> Easily discover and view all devices currently connected to your local network directly within the app.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>🎛️ Remote Hardware Control:</b> Adjust your Mac's volume and screen brightness right from your phone using the remote web dashboard.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>📸 Remote Screenshots:</b> Capture exactly what's on your Mac's screen with a single tap from the remote web dashboard.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>⏱️ Built-in & Remote Speed Test:</b> Accurately measure your Mac's internet performance directly from the dashboard and remote web dashboard, powered securely by M-Lab's open-source infrastructure.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>🌐 Network Menu Bar:</b> Keep an eye on your live upload and download speeds, straight from your Mac's menu bar.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>🔒 Remote Mac Locking:</b> You can now instantly lock your computer remotely using your phone via the remote access dashboard.
+        </li>
+        <li style="margin-bottom: 10px;">
+            <b>✨ Performance & UI Enhancements:</b> Refined visual elements for a cleaner native macOS experience, alongside major under-the-hood optimizations and bug fixes for speed, stability, and polish.
+        </li>
+    </ul>
 
-                            <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #444; margin-top: 16px;">Thank you for your continued feedback, which helps us make TK-mac the best it can be.</p>
-                        ]]></description>
-            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/TK-mac-Installer.dmg" length="4479714" type="application/octet-stream" sparkle:edSignature="1IaOX2fJ0FqW1UruiejJ5E9lFZhJfUkWwmGgkah/oVWzu9tg9He1nRAbxNEXQT9IL9U6tyVUU3jB3RVkTjxtAQ=="/>
+    <p style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; color: #444; margin-top: 16px;">Thank you for your continued feedback, which helps us make SimpleCommander the best it can be.</p>
+]]></description>
+            <enclosure url="https://c1loitersay.github.io/passwrdchromeextensionv2/updates/SimpleCommander-Installer.dmg" length="8164821" type="application/octet-stream" sparkle:edSignature="VUuB6dXQBv5gB6W2tuVgAi98vs+HsgFooamAZqpRQS0+b6tR61Y16RKSKj66l3UBsvrUFaBNGKn8kdVJtC2MDw=="/>
         </item>
     </channel>
 </rss>
